@@ -1,7 +1,16 @@
 # Talk to me
 
 ## LinkedIN
-[![](/icons/LinkedIN.png)](https://www.linkedin.com/in/erickfuga/)
+
+<img align="left" width="100" height="100" src="/icons/LinkedIN.png">
+
+**Erick Fuga**
+*https://www.linkedin.com/in/erickfuga/*
 
 ## GitHub
-[![](/icons/Github.png)](https://www.github.com/thefuga)
+
+<img align="left" width="100" height="100" src="/icons/Github.png">
+
+**thefuga**
+*github.com/thefuga*
+
